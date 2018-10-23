@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.header{
+
+	background-color:#e6e6fa;
+	width:1000px;
+	height:80px;
+}
+
+.title{	
+	font-family: 'Kodchasan', sans-serif;
+	float:left;
+	color:#87ceeb;
+	padding:20px;
+}
+
+li{	
+	color:#696969;
+	float:left;
+	padding:50px 20px 20px 20px;
+	list-style:none;
+}
+
+
