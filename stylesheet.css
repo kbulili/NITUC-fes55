@@ -14,6 +14,21 @@
 	padding:20px;
 }
 
+.main{
+	background-color:#faf887;
+	width:1000px;
+	height:1500px;
+}
+
+.footer{
+	background-color:#87fab3;
+	width:1000px;
+	height:150px;
+}
+
+
+
+
 li{	
 	color:#696969;
 	float:left;
