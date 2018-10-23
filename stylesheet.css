@@ -28,9 +28,10 @@ ul{
 figure {
   position: relative;
   overflow: hidden;
-  width: 300px;
+  width: 1000px;
 }
 figcaption {
+  font-color:#ffffff;
   position: absolute;
   top: 0;
   left: 0;
