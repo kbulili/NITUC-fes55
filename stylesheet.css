@@ -2,7 +2,7 @@
 
 .header{
 
-	background-color:#e6e6fa;
+	background-color:#2b2b2b;
 	width:1000px;
 	height:80px;
 }
@@ -10,28 +10,33 @@
 .title{	
 	font-family: 'Kodchasan', sans-serif;
 	float:left;
-	color:#87ceeb;
+	color:#ffffff;
 	padding:20px;
 }
 
+ul{
+	
+}
+
 .main{
-	background-color:#faf887;
+	background-color:#ffffff;
 	width:1000px;
 	height:1500px;
 }
 
 .footer{
-	background-color:#87fab3;
+	background-color:#696969;
 	width:1000px;
-	height:150px;
+	height:500px;
 }
 
 
 
 
 li{	
-	color:#696969;
-	float:left;
+	
+	color:#ffffff;
+	float:right;
 	padding:50px 20px 20px 20px;
 	list-style:none;
 }
