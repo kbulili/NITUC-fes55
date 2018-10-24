@@ -2,6 +2,9 @@
 
 #header-in{padding:1em 0;}
 
+
+	/* ↑基本的なやつ / フッターにかけて個別的なやつ↓ */
+
 .header{
 
 	background-color:#2b2b2b;
@@ -28,6 +31,23 @@ ul{
 	color:#ffffff;
 }
 
+
+img{
+	float:left;
+}
+
+
+li{	
+	
+	color:#ffffff;
+	float:right;
+	padding:50px 20px 20px 20px;
+	list-style:none;
+}
+
+
+
+
 .main{
 	background-color:#ffffff;
 	width:1000px;
@@ -40,7 +60,13 @@ ul{
 	height:2050px;
 }
 
-.main p{
+.main_g{
+	background-color:#fff;
+	width:1000px;
+	height:1250px;
+}
+
+.main_g p{
 
 	margin:40px auto 20px auto;
 	width:700px;
@@ -53,9 +79,7 @@ ul{
 	margin:0 auto;
 	display:table;
 }
-img{
-	float:left;
-}
+
 
 
 
@@ -104,19 +128,6 @@ figure:hover figcaption {
 	float:right;
 	padding-top:120px;
 	list-style:none;
-}
-
-li{	
-	
-	color:#ffffff;
-	float:right;
-	padding:50px 20px 20px 20px;
-	list-style:none;
-}
-
-.commingsoon{
-	font-size:100px;
-
 }
 
 #mapField {
