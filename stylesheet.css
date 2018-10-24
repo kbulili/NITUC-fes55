@@ -70,7 +70,8 @@ figure:hover figcaption {
 	color:#ffffff;
 	float:left;
 	/*padding:10px;*/
-	font-size:70px;
+	font-size:72px;
+	font-family: 'Mali', cursive;
 }
 
 .footer li{
