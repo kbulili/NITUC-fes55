@@ -22,7 +22,7 @@ ul{
 .main{
 	background-color:#ffffff;
 	width:1000px;
-	height:1150px;
+	height:1130px;
 }
 
 .page_link{
@@ -62,11 +62,23 @@ figure:hover figcaption {
 .footer{
 	background-color:#696969;
 	width:1000px;
-	height:500px;
+	height:150px;
 }
 
 
+.footer_logo{
+	color:#ffffff;
+	float:left;
+	/*padding:10px;*/
+	font-size:70px;
+}
 
+.footer li{
+	color:#fff;
+	float:right;
+	padding-top:120px;
+	list-style:none;
+}
 
 li{	
 	
