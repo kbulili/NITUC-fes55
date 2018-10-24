@@ -22,8 +22,19 @@ ul{
 .main{
 	background-color:#ffffff;
 	width:1000px;
-	height:1500px;
+	height:1150px;
 }
+
+.page_link{
+
+	margin:0 auto;
+	display:table;
+}
+img{
+	float:left;
+}
+
+
 
 figure {
   position: relative;
