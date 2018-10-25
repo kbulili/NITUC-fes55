@@ -36,6 +36,12 @@ img{
 	float:left;
 }
 
+.main_t img{
+
+	float:bottom;
+
+}
+
 
 li{	
 	
@@ -66,13 +72,27 @@ li{
 	height:1300px;
 }
 
-.main_g p{
+.main_g p, .main_t p, .main p{
 
-	margin:40px auto 20px auto;
+	margin:40px auto 40px auto;
 	width:700px;
 
 
 }
+
+iframe{
+
+	margin:50px auto 100px auto;
+	display:block;
+}
+
+.link_page{
+	margin:50px auto 100px auto;
+	padding:50px;
+	display:inline-block;
+
+}
+
 
 .page_link{
 
