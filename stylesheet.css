@@ -14,6 +14,8 @@
 }
 
 body {
+	height: relative;
+	position: relative;
 	margin: 0;
 }
 
@@ -63,25 +65,29 @@ li{
 .main{
 	background-color:#ffffff;
 	width:1000px;
-	height:1130px;
+	height:1150px;
+	padding-bottom:150px;
 }
 
 .main_a{
 	background-color:#fff;
 	width:1000px;
 	height:2250px;
+	padding-bottom:150px;
 }
 
 .main_t{
 	background-color:#fff;
 	width:1000px;
 	height:2050px;
+	padding-bottom:150px;
 }
 
 .main_g{
 	background-color:#fff;
 	width:1000px;
 	height:1300px;
+	padding-bottom:150px;
 }
 
 .main_g p, .main_t p, .main p, .main_a p{
@@ -115,25 +121,6 @@ iframe{
 
 
 
-figure {
-  position: relative;
-  overflow: hidden;
-  width: 1000px;
-}
-figcaption {
-  font-color:#ffffff;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 2;
-  width: 100%;
-  height: 100%;
-  background: rgba(0,0,0,.6);
-  -webkit-transition: .3s;
-  transition: .3s;
-  opacity: 0;
-}
-
 
 figure:hover figcaption {
   opacity: 1;
@@ -144,7 +131,11 @@ figure:hover figcaption {
 	background-color:#696969;
 	width:1000px;
 	height:150px;
+	position:absolute;
+	bottom:0;
+	
 }
+
 
 
 .footer_logo{
@@ -158,7 +149,7 @@ figure:hover figcaption {
 .footer li{
 	color:#fff;
 	float:right;
-	padding-top:120px;
+	padding-top:110px;
 	list-style:none;
 }
 
