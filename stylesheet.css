@@ -10,7 +10,13 @@
 	background-color:#2b2b2b;
 	width:1000px;
 	height:80px;
+	
 }
+
+body {
+	margin: 0;
+}
+
 
 .title{	
 	font-size:40px;
