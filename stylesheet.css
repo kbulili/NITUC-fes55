@@ -66,7 +66,7 @@ li{
 	background-color:#ffffff;
 	width:1000px;
 	height:1150px;
-	padding-bottom:150px;
+
 }
 
 .main_a{
@@ -81,13 +81,14 @@ li{
 	width:1000px;
 	height:2050px;
 	padding-bottom:150px;
+	
 }
 
 .main_g{
 	background-color:#fff;
 	width:1000px;
 	height:1300px;
-	padding-bottom:150px;
+	
 }
 
 .main_g p, .main_t p, .main p, .main_a p{
@@ -131,12 +132,16 @@ figure:hover figcaption {
 	background-color:#696969;
 	width:1000px;
 	height:150px;
-	position:absolute;
-	bottom:0;
 	
 }
 
-
+.footer_at{
+	background-color:#696969;
+	width:1000px;
+	height:150px;
+	position:absolute;
+	bottom:0;
+}
 
 .footer_logo{
 	color:#ffffff;
@@ -146,7 +151,7 @@ figure:hover figcaption {
 	font-family: 'Mali', cursive;
 }
 
-.footer li{
+.footer li, .footer_at li{
 	color:#fff;
 	float:right;
 	padding-top:110px;
